@@ -1,12 +1,18 @@
-# HelloWord
+# ICSI418Y HW3
 
----
-
-Hi, I am Yunrui Huang, a senior of Computer Sciences student.
-
-* this is a testing README for the **Lab01** of class *ICSI418Y*
+- Yunrui Huang
+- 10/09/2022
 
 
 
-### **this is the after modify README file**
+## website address
 
+http://ec2-44-202-228-248.compute-1.amazonaws.com:3000/
+
+## IP address of EC2 server
+
+44.202.228.248
+
+## Github link
+
+https://github.com/ualbany-software-engineering/git-fundamentals-YunRuiHuang.git
